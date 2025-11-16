@@ -1,0 +1,65 @@
+{
+  "sectors": [
+    {
+      "name": "General MSME",
+      "regulators": [
+        {
+          "name": "Business Registration Service (BRS)",
+          "documents": [
+            "Certificate of Registration",
+            "Certificate of Incorporation",
+            "CR12 / Beneficial Ownership Register",
+            "KRA PIN Certificate"
+          ]
+        },
+        {
+          "name": "Kenya Revenue Authority (KRA)",
+          "documents": [
+            "Tax Compliance Certificate",
+            "VAT Registration",
+            "PAYE Registration",
+            "Excise License"
+          ]
+        },
+        {
+          "name": "County Government",
+          "documents": [
+            "Single Business Permit",
+            "Fire Safety Certificate",
+            "Food Hygiene Certificate",
+            "Health Certificate for Food Handlers"
+          ]
+        }
+      ]
+    },
+
+    {
+      "name": "Pharmacy & Healthcare",
+      "regulators": [
+        {
+          "name": "Pharmacy and Poisons Board (PPB)",
+          "documents": [
+            "PPB Premises License",
+            "PPB Personnel License",
+            "GDP Certification",
+            "GSP Compliance"
+          ]
+        },
+        {
+          "name": "KEBS",
+          "documents": [
+            "KEBS Product Certification",
+            "Cosmetic Notification Certificate"
+          ]
+        },
+        {
+          "name": "County Public Health",
+          "documents": [
+            "Health Facility Inspection Certificate",
+            "Public Health License"
+          ]
+        }
+      ]
+    }
+  ]
+}
